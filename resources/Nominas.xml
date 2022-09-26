@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nominas>
+<Nomina id="0">
+<Nombre>José Luis Díez De la Puente</Nombre>
+<NIF>12345678I</NIF>
+<IBAN>Coordinador</IBAN>
+<Categoria>Coordinador</Categoria>
+<BrutoAnual>36500.0</BrutoAnual>
+<Categoria>7008.0</Categoria>
+<BrutoNomina>3041.6666666666665</BrutoNomina>
+<NetoNomina>2294.9166666666665</NetoNomina>
+<CosteEmpresario>278.3392857142857</CosteEmpresario>
+</Nomina>
+<Nomina id="1">
+<Nombre>Juan Martínez Fernández</Nombre>
+<NIF>12346675R</NIF>
+<IBAN>Auxiliar</IBAN>
+<Categoria>Auxiliar</Categoria>
+<BrutoAnual>15130.0</BrutoAnual>
+<Categoria>1316.31</Categoria>
+<BrutoNomina>1260.8333333333333</BrutoNomina>
+<NetoNomina>1082.8908333333334</NetoNomina>
+<CosteEmpresario>115.67261904761908</CosteEmpresario>
+</Nomina>
+<Nomina id="2">
+<Nombre>Miguel De la puente Alonso</Nombre>
+<NIF>09645569J</NIF>
+<IBAN>Auxiliar</IBAN>
+<Categoria>Auxiliar</Categoria>
+<BrutoAnual>15130.0</BrutoAnual>
+<Categoria>1316.31</Categoria>
+<BrutoNomina>1260.8333333333333</BrutoNomina>
+<NetoNomina>1082.8908333333334</NetoNomina>
+<CosteEmpresario>115.67261904761908</CosteEmpresario>
+</Nomina>
+<Nomina id="3">
+<Nombre>Laura García Prieto</Nombre>
+<NIF>24471671C</NIF>
+<IBAN>Limpiador</IBAN>
+<Categoria>Limpiador</Categoria>
+<BrutoAnual>13950.0</BrutoAnual>
+<Categoria>530.1</Categoria>
+<BrutoNomina>1162.5</BrutoNomina>
+<NetoNomina>1052.7</NetoNomina>
+<CosteEmpresario>107.66369047619048</CosteEmpresario>
+</Nomina>
+<Nomina id="4">
+<Nombre>Alejandro Fernández Domínguez</Nombre>
+<NIF>09741995T</NIF>
+<IBAN>Limpiador</IBAN>
+<Categoria>Limpiador</Categoria>
+<BrutoAnual>13950.0</BrutoAnual>
+<Categoria>530.1</Categoria>
+<BrutoNomina>1162.5</BrutoNomina>
+<NetoNomina>1052.7</NetoNomina>
+<CosteEmpresario>107.66369047619048</CosteEmpresario>
+</Nomina>
+<Nomina id="5">
+<Nombre>Sara Sánchez Asensio</Nombre>
+<NIF>24904263M</NIF>
+<IBAN>Ordenanza</IBAN>
+<Categoria>Ordenanza</Categoria>
+<BrutoAnual>17700.0</BrutoAnual>
+<Categoria>1867.35</Categoria>
+<BrutoNomina>1475.0</BrutoNomina>
+<NetoNomina>1232.7625</NetoNomina>
+<CosteEmpresario>137.86607142857144</CosteEmpresario>
+</Nomina>
+<Nomina id="6">
+<Nombre>José Luis Suárez Suárez</Nombre>
+<NIF>72164785Z</NIF>
+<IBAN>Ordenanza</IBAN>
+<Categoria>Ordenanza</Categoria>
+<BrutoAnual>17700.0</BrutoAnual>
+<Categoria>1867.35</Categoria>
+<BrutoNomina>1475.0</BrutoNomina>
+<NetoNomina>1232.7625</NetoNomina>
+<CosteEmpresario>137.86607142857144</CosteEmpresario>
+</Nomina>
+<Nomina id="7">
+<Nombre>Marcos Garcia Fernández</Nombre>
+<NIF>12345678P</NIF>
+<IBAN>Coordinador</IBAN>
+<Categoria>Coordinador</Categoria>
+<BrutoAnual>36500.0</BrutoAnual>
+<Categoria>7008.0</Categoria>
+<BrutoNomina>3041.6666666666665</BrutoNomina>
+<NetoNomina>2294.9166666666665</NetoNomina>
+<CosteEmpresario>278.3392857142857</CosteEmpresario>
+</Nomina>
+</Nominas>

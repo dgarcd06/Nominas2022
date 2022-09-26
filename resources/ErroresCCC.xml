@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cuentas>
+<cuenta id="1">
+<Nombre>Carolina</Nombre>
+<Apellido1>Mielgo</Apellido1>
+<Apellido2>Gutierrez</Apellido2>
+<Empresa>TecnoProyectSL</Empresa>
+<CodigoCuentaErroneo>20960583861234500000</CodigoCuentaErroneo>
+<IBAN>ES642096058381161234500000</IBAN>
+</cuenta>
+<cuenta id="2">
+<Nombre>Casimiro</Nombre>
+<Apellido1>González</Apellido1>
+<Apellido2>Alonso</Apellido2>
+<Empresa>TecnoLeonSL</Empresa>
+<CodigoCuentaErroneo>20960043013075700000</CodigoCuentaErroneo>
+<IBAN>ES792096004311713075700000</IBAN>
+</cuenta>
+<cuenta id="4">
+<Nombre>Consuelo</Nombre>
+<Apellido1>Francisco</Apellido1>
+<Apellido2>López</Apellido2>
+<Empresa>TecnoProyectSL</Empresa>
+<CodigoCuentaErroneo>20960043092158800000</CodigoCuentaErroneo>
+<IBAN>ES14320960043111092158800000</IBAN>
+</cuenta>
+<cuenta id="5">
+<Nombre>Clementina</Nombre>
+<Apellido1>Montiel</Apellido1>
+<Apellido2>Martínes</Apellido2>
+<Empresa>TecnoLeonSL</Empresa>
+<CodigoCuentaErroneo>01826530120201560000</CodigoCuentaErroneo>
+<IBAN>ES1290182653010220201560000</IBAN>
+</cuenta>
+<cuenta id="6">
+<Nombre>Martin</Nombre>
+<Apellido1>Gonzalez</Apellido1>
+<Apellido2>Fernandez</Apellido2>
+<Empresa>TecnoLeonSL</Empresa>
+<CodigoCuentaErroneo>20960043092158805837</CodigoCuentaErroneo>
+<IBAN>ES672096004311392158805837</IBAN>
+</cuenta>
+</cuentas>
